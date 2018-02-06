@@ -1,1 +1,0 @@
-stream = [('in', b'<?xml version=\x271.0\x27?><stream:stream xmlns:stream=\x27http://etherx.jabber.org/streams\x27 xmlns=\x27jabber:client\x27 xml:lang=\x27ru-RU\x27 to=\x27.\x27 version=\x271.0\x27>')]

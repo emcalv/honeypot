@@ -1,1 +1,0 @@
-stream = [('in', b'OPTIONS sip:fo@f1 SIP/2.0\x0d\x0aVia: SIP/2.0/UDP fo@f1\x0d\x0aCSeq: 1 OPTIONS\x0d\x0a')]
