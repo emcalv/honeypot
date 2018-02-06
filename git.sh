@@ -7,6 +7,6 @@ mv /opt/dionaea/var/dionaea/bistreams /root/honeypot/
 mkdir /opt/dionaea/var/dionaea/binaries
 mkdir /opt/dionaea/var/dionaea/bistreams
 
-git commit -m "commit"
 git add *
+git commit -m "commit"
 git push -u origin master
