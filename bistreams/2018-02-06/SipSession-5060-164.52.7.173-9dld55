@@ -1,0 +1,1 @@
+stream = [('in', b'\x00\x00\x00[\x00\x03\x00\x00user\x00test\x00database\x00test\x00client_encoding\x00UNICODE\x00DateStyle\x00ISO\x00TimeZone\x00US/Pacific\x00\x00')]
