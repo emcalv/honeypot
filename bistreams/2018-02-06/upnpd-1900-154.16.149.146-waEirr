@@ -1,1 +1,0 @@
-stream = [('in', b'M-SEARCH * HTTP/1.1\x0d\x0aHost:239.255.255.250:1900\x0d\x0aMan:"ssdp:discover"\x0d\x0aMX:4\x0d\x0aST:upnp:rootdevice')]
