@@ -1,0 +1,5 @@
+stream = [('in', b'\x10\x13\x00\x06MQIsdp\x03\x02\x00<\x00\x05tchan'),
+('out', b' \x02\x00\x00'),
+('in', b'\x82"\x04g\x00\x1d$SYS/broker/clients/connected\x00'),
+('out', b'\x90\x02\x04g\x00'),
+('in', b'\xe0\x00')]
