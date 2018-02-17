@@ -1,0 +1,1 @@
+stream = [('in', b'GET / HTTP/1.1\x0d\x0aHost: 54.37.155.246\x0d\x0aUser-Agent: Mozilla/5.0 zgrab/0.x\x0d\x0aAccept-Encoding: gzip\x0d\x0a\x0d\x0a')]
