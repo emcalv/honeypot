@@ -1,0 +1,7 @@
+stream = [('in', b'\x100\x00\x04MQTT\x04\x02\x00\x0a\x00$96b5530f-856e-402a-a9ae-361db614f283'),
+('out', b' \x02\x00\x00'),
+('in', b'\x82X\x00\x01\x00\x01#\x00\x00\x19$SYS/broker/clients/total\x00\x00\x1d$SYS/broker/messages/received\x00\x00\x13$SYS/broker/version\x00'),
+('out', b'\x90\x02\x00\x01\x00'),
+('in', b'\xc0\x00'),
+('out', b'\xd0\x00'),
+('in', b'\xe0\x00')]
