@@ -1,0 +1,1 @@
+stream = [('in', b'OPTIONS sip:nm SIP/2.0\x0d\x0aVia: SIP/2.0/TCP nm;branch=foo\x0d\x0aFrom: <sip:nm@nm>;tag=root\x0d\x0aTo: <sip:nm2@nm2>\x0d\x0aCall-ID: 50000\x0d\x0aCSeq: 42 OPTIONS\x0d\x0aMax-Forwards: 70\x0d\x0aContent-Length: 0\x0d\x0aContact: <sip:nm@nm>\x0d\x0aAccept: application/sdp\x0d\x0a\x0d\x0a')]
