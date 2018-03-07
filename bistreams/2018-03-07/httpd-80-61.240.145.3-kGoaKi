@@ -1,0 +1,1 @@
+stream = [('in', b'myversion|\x0d\x0a')]
