@@ -1,0 +1,7 @@
+stream = [('out', b'220 DiskStation FTP server ready.\x0d\x0a'),
+('in', b'USER admin\x0d\x0a'),
+('out', b'331 Password required for admin.\x0d\x0a'),
+('in', b'PASS Forward\x0d\x0a'),
+('out', b'230 User logged in, proceed\x0d\x0a'),
+('in', b'TYPE A\x0d\x0a'),
+('out', b'504 Not implemented for parameter \x27A\x27.\x0d\x0a')]

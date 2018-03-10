@@ -1,0 +1,2 @@
+stream = [('in', b'HEAD http://54.37.155.246:80/db/phpMyAdmin3/ HTTP/1.1\x0d\x0aConnection: Keep-Alive\x0d\x0aKeep-Alive: 300\x0d\x0aUser-Agent: Mozilla/5.0 muhstik-scan\x0d\x0aHost: 54.37.155.246\x0d\x0a\x0d\x0a'),
+('out', b'HTTP/1.1 404 Not Found\x0d\x0aServer: nginx\x0d\x0aContent-Type: text/html; charset=utf-8\x0d\x0aContent-Length: 340\x0d\x0aConnection: close\x0d\x0a\x0d\x0a')]
