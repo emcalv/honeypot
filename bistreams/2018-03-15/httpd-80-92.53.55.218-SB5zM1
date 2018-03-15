@@ -1,0 +1,2 @@
+stream = [('in', b'GET / HTTP/1.0\x0d\x0aHost: 54.37.155.246\x0d\x0aAccept: */*\x0d\x0aConnection: close\x0d\x0a\x0d\x0a'),
+('out', b'HTTP/1.1 200 OK\x0d\x0aServer: nginx\x0d\x0aContent-Type: text/html; charset=utf-8\x0d\x0aContent-Length: 204\x0d\x0aConnection: close\x0d\x0a\x0d\x0a<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html>\x0a<title>Directory listing for /</title>\x0a<body>\x0a<h2>Directory listing for /</h2>\x0a<hr>\x0a<ul>\x0a<li><a href="../">../</a>\x0a</ul>\x0a<hr>\x0a</body>\x0a</html>\x0a')]
