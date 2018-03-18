@@ -1,0 +1,9 @@
+stream = [('out', b'220 DiskStation FTP server ready.\x0d\x0a'),
+('in', b'USER anonymous\x0d\x0a'),
+('out', b'331 Guest login ok, type your email address as password.\x0d\x0a'),
+('in', b'PASS anonymous@\x0d\x0a'),
+('out', b'230 Anonymous login ok, access restrictions apply.\x0d\x0a'),
+('in', b'HELP\x0d\x0a'),
+('out', b'502 Command \x27HELP\x27 not implemented\x0d\x0a'),
+('in', b'FEAT\x0d\x0a'),
+('out', b'211-Features:\x0d\x0a PASV\x0d\x0a PORT\x0d\x0a211 End\x0d\x0a')]
