@@ -1,0 +1,7 @@
+stream = [('out', b'220 DiskStation FTP server ready.\x0d\x0a'),
+('in', b'USER anonymous\x0d\x0a'),
+('out', b'331 Guest login ok, type your email address as password.\x0d\x0a'),
+('in', b'PASS anonymous@\x0d\x0a'),
+('out', b'230 Anonymous login ok, access restrictions apply.\x0d\x0a'),
+('in', b'QUIT\x0d\x0a'),
+('out', b'221 Goodbye.\x0d\x0a')]
