@@ -1,0 +1,7 @@
+stream = [('out', b'220 DiskStation FTP server ready.\x0d\x0a'),
+('in', b'USER root\x0d\x0a'),
+('out', b'331 Password required for root.\x0d\x0a'),
+('in', b'PASS dreambox\x0d\x0a'),
+('out', b'230 User logged in, proceed\x0d\x0a'),
+('in', b'QUIT\x0d\x0a'),
+('out', b'221 Goodbye.\x0d\x0a')]
