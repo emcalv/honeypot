@@ -1,0 +1,1 @@
+stream = [('in', b'GET http://clientapi.ipip.net/echo.php?info=20180620154916 HTTP/1.1\x0d\x0aHost: clientapi.ipip.net\x0d\x0aAccept: */*\x0d\x0aPragma: no-cache\x0d\x0aUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64)\x0d\x0a\x0d\x0a')]

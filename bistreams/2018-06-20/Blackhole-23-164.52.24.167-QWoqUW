@@ -1,0 +1,1 @@
+stream = [('in', b'fox a 1 -1 fox hello\x0a{\x0afox.version=s:1.0\x0aid=i:2\x0a};;\x0a')]
