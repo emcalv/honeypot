@@ -1,0 +1,5 @@
+stream = [('out', b'220 DiskStation FTP server ready.\x0d\x0a'),
+('in', b'AUTH TLS\x0d\x0a'),
+('out', b'530 Please login with USER and PASS.\x0d\x0a'),
+('in', b'QUIT\x0d\x0a'),
+('out', b'530 Please login with USER and PASS.\x0d\x0a')]
