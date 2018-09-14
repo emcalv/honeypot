@@ -1,0 +1,5 @@
+stream = [('out', b'220 DiskStation FTP server ready.\x0d\x0a'),
+('in', b'USER ftp\x0d\x0a'),
+('out', b'331 Password required for ftp.\x0d\x0a'),
+('in', b'PASS \x0d\x0a'),
+('out', b'500 Syntax error: PASS requires an argument\x0d\x0a')]
