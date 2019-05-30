@@ -1,0 +1,1 @@
+stream = [('in', b'\x1b%-12345X@PJL USTATUS DEVICE=OFF\x0d\x0a\x1b%-12345X\x0d\x0a\x1b%-12345X@PJL INFO ID\x0d\x0a\x1b%-12345X\x0d\x0a')]
